@@ -1,0 +1,7 @@
+﻿streamlit
+opencv-python
+easyocr
+pandas
+numpy
+openpyxl
+pyenchant
