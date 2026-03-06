@@ -1,7 +1,6 @@
 ﻿streamlit
-opencv-python
+opencv-python-headless
 easyocr
 pandas
 numpy
 openpyxl
-pyenchant
